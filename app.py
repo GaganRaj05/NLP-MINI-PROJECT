@@ -7,7 +7,7 @@ import pandas as pd
 import streamlit as st
 
 
-st.set_page_config(page_title="NLP Pipeline Lab", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="NLP Pipeline Lab", layout="wide")
 
 C = {"tok": "#3b6cf6", "clean": "#0fa89a", "norm": "#3f9e4d", "ling": "#e8920c", "vec": "#8a5cf0"}
 
